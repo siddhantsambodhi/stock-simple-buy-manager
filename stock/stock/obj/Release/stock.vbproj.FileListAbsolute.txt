@@ -1,0 +1,11 @@
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\bin\Release\stock.exe.config
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\bin\Release\stock.exe
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\bin\Release\stock.pdb
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\bin\Release\stock.xml
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\obj\Release\stock.vbprojResolveAssemblyReference.cache
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\obj\Release\stock.Form1.resources
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\obj\Release\stock.Resources.resources
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\obj\Release\stock.vbproj.GenerateResource.Cache
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\obj\Release\stock.exe
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\obj\Release\stock.xml
+C:\Users\SID\Documents\Visual Studio 2015\Projects\stock\stock\obj\Release\stock.pdb

@@ -1,0 +1,11 @@
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\bin\Debug\stock.exe.config
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\bin\Debug\stock.exe
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\bin\Debug\stock.pdb
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\bin\Debug\stock.xml
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.vbprojResolveAssemblyReference.cache
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.Form1.resources
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.Resources.resources
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.vbproj.GenerateResource.Cache
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.exe
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.xml
+c:\users\sid\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.pdb
